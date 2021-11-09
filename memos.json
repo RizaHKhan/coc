@@ -1,0 +1,47 @@
+{
+  "coc-eslint|global": {
+    "eslintAlwaysAllowExecution": true,
+    "noESLintMessageShown": {
+      "workspaces": {
+        "file:///Users/rizakhan/laravel/mission-control-2": true,
+        "file:///Users/rizakhan/laravel/accounting": true,
+        "file:///Users/rizakhan/laravel/app.myabseil.com-multi-tenant-laravel-api": true,
+        "file:///Users/rizakhan/.js": true,
+        "file:///Users/rizakhan/typescript": true,
+        "file:///Users/rizakhan/vue/myabseil-vue2-app": true,
+        "file:///Users/rizakhan/laravel/labspend": true,
+        "file:///Users/rizakhan/laravel/comic-con/resources/js": true,
+        "file:///Users/rizakhan/laravel/comiccon": true,
+        "file:///Users/rizakhan/stencil/minimal-layout": true
+      },
+      "global": true
+    }
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/vue/vite-practice": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/vue/myabseil-vue2-app": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/laravel/accounting": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/laravel/mission-control-2": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/laravel/labspend": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/vue/vue3-vuetify": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/vue/myabseil-vue3-app": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/laravel/comiccon": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "@yaegassy/coc-volar|/Users/rizakhan/vue/stencil-practice": {
+    "coc-volar-ts-server-path": "/Users/rizakhan/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  }
+}

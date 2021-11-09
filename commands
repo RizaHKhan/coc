@@ -1,0 +1,7 @@
+prettier.formatFile
+terminal.Toggle
+terminal.Destroy
+terminal.REPL
+snippets.editSnippets
+snippets.openSnippetFiles
+eslint.showOutputChannel
