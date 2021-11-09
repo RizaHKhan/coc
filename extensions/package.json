@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@yaegassy/coc-volar": ">=0.5.35",
+    "coc-blade-formatter": ">=0.3.4",
+    "coc-blade-linter": ">=0.2.1",
+    "coc-eslint": ">=1.4.5",
+    "coc-phpls": ">=2.2.1",
+    "coc-prettier": ">=1.1.23",
+    "coc-snippets": ">=2.4.4",
+    "coc-terminal": ">=0.6.0"
+  }
+}
